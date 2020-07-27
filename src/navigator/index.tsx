@@ -10,7 +10,7 @@ import {
 import React from 'react';
 import { Platform, StyleSheet } from 'react-native';
 
-import BottomTabs from './BottomTabs2';
+import BottomTabs from './BottomTabs';
 
 type RootStackParamList = {
 	BottomTabs: { screen?: string };
